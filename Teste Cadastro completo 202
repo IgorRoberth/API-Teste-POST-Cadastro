@@ -1,0 +1,14 @@
+# API-Teste-Cadastro-INM
+
+
+{
+    "empregadoId": 804,
+    "nome": "Joyce",
+    "sexo": "f",
+    "cpf": "411.166.700-70",
+    "cargo": "Gerente de projetos",
+    "admissao": "01/01/2020",
+    "salario": "20.000,00",
+    "comissao": "13.000,00",
+    "tipoContratacao": "pj"
+}
