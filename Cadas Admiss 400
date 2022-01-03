@@ -1,0 +1,18 @@
+# API-Teste-Cadastro-INM
+
+{
+  "admissao": "01/01",
+  "cargo": "Gerente de projetos",
+  "comissao": "13.000,00",
+  "cpf": "411.166.700-70",
+  "departamentoId": 1,
+  "nome": "Joyce",
+  "salario": "20.000,00",
+  "sexo": "f",
+  "tipoContratacao": "pj"
+}
+
+Respose
+[
+    "admissao: deve estar no padrão 31/12/2020"
+]
