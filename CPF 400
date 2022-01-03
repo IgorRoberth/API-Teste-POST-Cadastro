@@ -1,0 +1,18 @@
+# API-Teste-Cadastro-INM
+
+{
+  "admissao": "01/01/2020",
+  "cargo": "Analista de teste QA",
+  "comissao": "3.000,00",
+  "cpf": "411.166",
+  "departamentoId": 1,
+  "nome": "Joyce",
+  "salario": "15.000,00",
+  "sexo": "f",
+  "tipoContratacao": "pj"
+}
+
+Response
+[
+    "cpf: deve estar no padrão 111.222.333-00"
+]
