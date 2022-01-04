@@ -1,0 +1,20 @@
+# API-Teste-Cadastro-INM
+
+
+{
+  "admissao": "01/01/2020",
+  "cargo": "%",
+  "comissao": "3.000,00",
+  "cpf": "411.166.700-70",
+  "departamentoId": 1,
+  "nome": "Joyce",
+  "salario": "15.000,00",
+  "sexo": "f",
+  "tipoContratacao": "pj"
+}
+
+Response
+
+[
+    "cargo: não utilizar números ou caracteres especiais"
+]
